@@ -26,3 +26,5 @@ Analyze customer purchases, product performance, and employee sales using SQL fr
 
 ---
 🚀 Deployed by Thirukkuralan
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/thirukkuralan-data-analyst)   
+📂 [Check out more projects in my GitHub Portfolio](https://github.com/Davidkuralan)
